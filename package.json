@@ -1,0 +1,14 @@
+{
+  "name": "project6-modern-port-folio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio wedsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anusha",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
